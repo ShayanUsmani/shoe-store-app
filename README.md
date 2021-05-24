@@ -1,3 +1,3 @@
-#Shoe Store App
+# Todo App
 
-Surge Url: shoe-store-app-by-shayan-usmani.surge.sh
+Surge Url: http://shoe-store-app-by-shayan-usmani.surge.sh/
